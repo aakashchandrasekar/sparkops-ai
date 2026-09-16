@@ -25,3 +25,15 @@ __pycache__/
 venv/
 env/
 .cache/
+
+# CloudShell / local environment
+.aws/
+.cassandra/
+.config/
+.bash_logout
+.bash_profile
+.bashrc
+.gitconfig
+.lesshst
+.zprofile
+.zshrc
