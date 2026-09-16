@@ -1,0 +1,6 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,expected_customers,expected_transactions,priority
+C001,Regular Cashback,CASHBACK,2026-09-01,2026-09-01,50000,250000,LOW
+C002,Weekend Offer,DISCOUNT,2026-09-05,2026-09-06,150000,700000,MEDIUM
+C003,Diwali Cashback,CASHBACK,2026-09-15,2026-09-20,5000000,25000000,HIGH
+C004,Loan Festival,LOAN,2026-10-01,2026-10-15,2000000,8000000,HIGH
+C005,Regular Rewards,REWARDS,2026-10-20,2026-10-20,60000,300000,LOW
