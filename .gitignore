@@ -18,3 +18,10 @@ predictions/*.json
 *.pem
 *.key
 credentials
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.cache/
